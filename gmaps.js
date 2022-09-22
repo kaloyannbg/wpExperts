@@ -1,3 +1,6 @@
+// THEME/js/gmaps.js
+// add this code there
+
 (function($) {
 
     /*
