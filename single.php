@@ -1,9 +1,12 @@
+// single.php in your current theme 
+// add this code there
+
                     <script>
                     function showMapFunction() {
                     document.getElementById("map-acf").style = "none";
                     }
                     </script>
-
+                    //replace this
                     <div class="detail-content">
                         <?php
                             $mapLocation = get_field('map_location'); 
